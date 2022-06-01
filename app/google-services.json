@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "182289175398",
+    "project_id": "crimenotificationapp",
+    "storage_bucket": "crimenotificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182289175398:android:2dc5cb92989d70328ceea7",
+        "android_client_info": {
+          "package_name": "com.example.crimenotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182289175398-5m7kidulvhqbdvj976rqab952s7vu6t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2Hn_qQIy7tQvFUhlMIonSyYYs2quZM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182289175398-5m7kidulvhqbdvj976rqab952s7vu6t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182289175398:android:367634fa96595cc18ceea7",
+        "android_client_info": {
+          "package_name": "edu.skku.map.crimenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182289175398-5m7kidulvhqbdvj976rqab952s7vu6t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2Hn_qQIy7tQvFUhlMIonSyYYs2quZM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182289175398-5m7kidulvhqbdvj976rqab952s7vu6t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
